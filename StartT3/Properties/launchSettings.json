@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StartT3": {
+      "commandName": "Project",
+      "workingDirectory": ".."
+    }
+  }
+}
